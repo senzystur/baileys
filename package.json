@@ -1,13 +1,13 @@
 {
-    "name": "senzy/bail",
+    "name": "senzystur",
     "version": "1.7.3",
-    "description": "Have A Nice Day",
+    "description": "The Cikidaw",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/mensenganteng/bail-senzy",
+    "homepage": "https://github.com/senzystur/baileys",
     "repository": {
-        "url": "https://github.com/mensenganteng/bail-senzy"
+        "url": "https://github.com/senzystur/baileys"
     },
     "license": "MIT",
     "author": "senzy",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://kayzennotdev/bail/issues"
+      "url": "https://senzystur/baileys"
     }
 }
